@@ -1,0 +1,11 @@
+datasets
+rank_bm25
+scikit-learn
+sentence-transformers
+faiss-cpu
+torch
+underthesea
+numpy
+pandas
+matplotlib
+tqdm
